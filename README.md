@@ -60,4 +60,4 @@ This project demonstrated the effectiveness of using machine learning models lik
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fraud-detection.git
+   git clone https://github.com/Bilal-Shabbir/fraud-detection.git
